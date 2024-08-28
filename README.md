@@ -14,3 +14,5 @@ God-tier Infrastructure stack
 11. github build agents
 12. rocksdb
 13. minio
+14. vcpkg binary source (s3, NuGet or HTTP server)
+16. nginx
